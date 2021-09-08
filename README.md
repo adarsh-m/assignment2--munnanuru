@@ -10,3 +10,10 @@
     2. Then take second right towards the free way
 1. Take via free way
 2. Drive until Kansas
+
+* Items to be taken for the trip
+    * Barbeque
+    * camp tent
+    * fan
+    * powerbank
+    * balls
