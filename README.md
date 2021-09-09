@@ -40,7 +40,7 @@ Steak | Hot Wox | 40$
 ---
 # String Processing
 >String hashing is the way to convert a string into an integer known as a hash of that string.
-An ideal hashing is the one in which there are minimum chances of collision (i.e 2 different strings having the same hash). (https://www.geeksforgeeks.org/string-hashing-using-polynomial-rolling-hash-function/)
+An ideal hashing is the one in which there are minimum chances of collision (i.e 2 different strings having the same hash). (https://www.geeksforgeeks.org/string-hashing-using-polynomial-rolling-hash-function)
 
 ```
 long long compute_hash(string const& s) {
