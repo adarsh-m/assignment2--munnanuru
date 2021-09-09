@@ -19,3 +19,12 @@
     * balls
 
 **[My Profile](AboutMe.md)**
+
+ ---
+ # Recommended Foods - Barbecue and Beyond
+Sunday dinners, potluck gatherings and farmhouse meals feature prominently among the foods that inspire the people in this middle-of-the-U.S. state. A state wealthy in farmland and cattle ranches is sure to serve some good food. So, come “Home on the Range” with the comfort foods of Kansas.
+
+Food/Drink | Location | Price
+--- | --- | ---
+Chicken Biryani | Godavari | $22
+Steak | Hot Wox | 40$
