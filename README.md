@@ -28,3 +28,12 @@ Food/Drink | Location | Price
 --- | --- | ---
 Chicken Biryani | Godavari | $22
 Steak | Hot Wox | 40$
+
+---
+
+# Quotes
+> The purpose of our lives is to be happy.
+> *— Dalai Lama*
+
+> “Life is what happens when you’re busy making other plans.” 
+> *— John Lennon*
