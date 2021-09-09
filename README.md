@@ -37,3 +37,24 @@ Steak | Hot Wox | 40$
 
 > “Life is what happens when you’re busy making other plans.” 
 > *— John Lennon*
+---
+# String Processing
+>String hashing is the way to convert a string into an integer known as a hash of that string.
+An ideal hashing is the one in which there are minimum chances of collision (i.e 2 different strings having the same hash). (https://www.geeksforgeeks.org/string-hashing-using-polynomial-rolling-hash-function/)
+
+```
+long long compute_hash(string const& s) {
+    const int p = 31;
+    const int m = 1e9 + 9;
+    long long hash_value = 0;
+    long long p_pow = 1;
+    for (char c : s) {
+        hash_value = (hash_value + (c - 'a' + 1) * p_pow) % m;
+        p_pow = (p_pow * p) % m;
+    }
+    return hash_value;
+}
+
+```
+
+[sorce code](https://cp-algorithms.com/string/string-hashing.html)
