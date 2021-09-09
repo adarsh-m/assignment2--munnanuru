@@ -57,4 +57,4 @@ long long compute_hash(string const& s) {
 
 ```
 
-[sorce code](https://cp-algorithms.com/string/string-hashing.html)
+[source code](https://cp-algorithms.com/string/string-hashing.html)
